@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/elihera/static/css/main.69e835cb.css",
+    "main.js": "/elihera/static/js/main.09ce5df3.js",
+    "static/js/787.f7cf3e85.chunk.js": "/elihera/static/js/787.f7cf3e85.chunk.js",
+    "static/media/perep.jpg": "/elihera/static/media/perep.a32e4b9de794a82df2fd.jpg",
+    "static/media/ec.jpg": "/elihera/static/media/ec.eba0a92ed1e2e0e7dc06.jpg",
+    "static/media/spdr.png": "/elihera/static/media/spdr.d3913ad7634fd92cac2c.png",
+    "static/media/cts.jpg": "/elihera/static/media/cts.fb3a8dac7d2f29ae49f0.jpg",
+    "static/media/yb.jpg": "/elihera/static/media/yb.0774240d735352041d64.jpg",
+    "static/media/lmpr.jpg": "/elihera/static/media/lmpr.5fc5af1bf76cbf12dfcc.jpg",
+    "static/media/nri.jpg": "/elihera/static/media/nri.62035b8ffd94d38c39ed.jpg",
+    "static/media/rsk.jpg": "/elihera/static/media/rsk.75720269e97bcd0a4c05.jpg",
+    "static/media/jlk.jpg": "/elihera/static/media/jlk.eb96825c5e8010d6da26.jpg",
+    "static/media/la.jpeg": "/elihera/static/media/la.6e0a8b872419ae13f39b.jpeg",
+    "static/media/csno.jpg": "/elihera/static/media/csno.5d55c53654e7194faf88.jpg",
+    "static/media/sci.jpg": "/elihera/static/media/sci.7bef8f2a2c622932ae77.jpg",
+    "static/media/qrin.jpg": "/elihera/static/media/qrin.a4a0aef653dbc51b76f8.jpg",
+    "index.html": "/elihera/index.html",
+    "main.69e835cb.css.map": "/elihera/static/css/main.69e835cb.css.map",
+    "main.09ce5df3.js.map": "/elihera/static/js/main.09ce5df3.js.map",
+    "787.f7cf3e85.chunk.js.map": "/elihera/static/js/787.f7cf3e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e835cb.css",
+    "static/js/main.09ce5df3.js"
+  ]
+}
